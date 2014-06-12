@@ -3,7 +3,7 @@ title       : Quizii
 subtitle    : A quiz application build in Shiny
 author      : Witek ten Hove
 job         : Instructor
-framework   : io2012   # {io2012, html5slides, shower, dzslides, ...}
+framework   : html5slides   # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [mathjax, bootstrap, quiz]            # {mathjax, quiz, bootstrap}
@@ -73,9 +73,9 @@ With some simple R code you can sample from a set of questions and return the an
 
 
 
-A scrambled quiz question: What's the purpose of human life?
+A scrambled quiz question: What is the capital of Love?
 
-1. Love
-2. See Napels and die
-3. God only knows!
-4. Paying taxes
+1. Berlin, ohnehin!
+2. Paris mon Dieu!
+3. London, you fool!
+4. My place, cherry!
